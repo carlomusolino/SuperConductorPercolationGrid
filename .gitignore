@@ -1,0 +1,5 @@
+#ignore emacs log files
+*~
+#ignore python compile files
+__pycashe__
+*.pyc
